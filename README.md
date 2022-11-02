@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohitchawda22
 - 👀 I’m interested in learning things about the technology and in playing games . 
-- 🌱 I’m currently learning c,c++,java,python
+- 🌱 I’m currently learning c,c++,java,python,html,css,javascript
 - 💞️ I’m looking to collaborate on gaming industry and cloud computing.
 - 📫 How to reach me my email id -mohitchawda22jan@gmail.com and insta id -mkc_cool22
 
