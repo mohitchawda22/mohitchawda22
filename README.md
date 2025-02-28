@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitchawda22" alt="mohitchawda22" /></a> </p>
 
+<a href="https://app.daily.dev/mohitchawda"><img src="https://api.daily.dev/devcards/v2/bqSebCp5yKDZTI4RkjcXf.png?r=wk0&type=wide" width="652" alt="Mohit Chawda's Dev Card"/></a>
+
 - 🔭 I’m currently working on **yudiz Solution pvt ltd.**
 
 - 🌱 I’m currently learning **frontend library's**
